@@ -5,7 +5,6 @@
 
 ---
 - [Da⚡hTerm](#dahterm)
-- [- License](#--license)
     - [What's the app actually doing ? 🤔](#whats-the-app-actually-doing--)
     - [Why use a TUI for this? 🤔](#why-use-a-tui-for-this-)
     - [Want to contribute ?](#want-to-contribute-)
