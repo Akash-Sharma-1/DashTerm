@@ -3,7 +3,9 @@
 
 ![DashTerm Icon](images/Dashterm.png)
 
+---
 - [Da⚡hTerm](#dahterm)
+- [- License](#--license)
     - [What's the app actually doing ? 🤔](#whats-the-app-actually-doing--)
     - [Why use a TUI for this? 🤔](#why-use-a-tui-for-this-)
     - [Want to contribute ?](#want-to-contribute-)
@@ -16,7 +18,7 @@
 - [This is a **work-in-progress** project 😊](#this-is-a-work-in-progress-project-)
 - [Contributing ♥](#contributing-)
 - [License](#license)
-
+---
 
 DashTerm is an easy to use , open-source TUI dashboard which enables you to view all the essential data you need at your workplace in a single glance.
 
