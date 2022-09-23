@@ -1,2 +1,2 @@
 # Dash⚡Term
-A terminal based application (TUI) for handling your workstation dashboards in a single view
+A terminal based application (TUI) for handling your workstation related dashboards ...
