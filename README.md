@@ -1,18 +1,18 @@
-# Da⚡hTerm
+## Da⚡hTerm
 >A terminal based application (TUI) for enhancing your productive workstation 👨‍💻...
 
 ![DashTerm Icon](images/Dashterm.png)
 
 - [Da⚡hTerm](#dahterm)
-      - [What's the app actually doing ? 🤔](#whats-the-app-actually-doing--)
-      - [Why use a TUI for this? 🤔](#why-use-a-tui-for-this-)
-      - [Want to contribute ?](#want-to-contribute-)
+    - [What's the app actually doing ? 🤔](#whats-the-app-actually-doing--)
+    - [Why use a TUI for this? 🤔](#why-use-a-tui-for-this-)
+    - [Want to contribute ?](#want-to-contribute-)
 - [Features 📑](#features-)
 - [How to use this ⚙?](#how-to-use-this-)
-      - [Requirements](#requirements)
-      - [Cloning the repo](#cloning-the-repo)
-      - [Installing Dependencies](#installing-dependencies)
-      - [Firing up the terminal](#firing-up-the-terminal)
+    - [Requirements](#requirements)
+    - [Cloning the repo](#cloning-the-repo)
+    - [Installing Dependencies](#installing-dependencies)
+    - [Firing up the terminal](#firing-up-the-terminal)
 - [This is a **work-in-progress** project 😊](#this-is-a-work-in-progress-project-)
 - [Contributing ♥](#contributing-)
 - [License](#license)
@@ -34,7 +34,7 @@ Please refer to the [Contributing Section](#contributing-)
 Thanks in advance <3
 
 
-# Features 📑
+## Features 📑
 
 Not an exaustive list - many more dashboard views are yet to come !
 Some of the currently planned **dashboard views** are : 
@@ -53,7 +53,7 @@ Some of the currently planned **dashboard views** are :
 ![Demo2](/images/Demo2.jpg)
 
 
-# How to use this ⚙?
+## How to use this ⚙?
 #### Requirements
 - python3
 - pip or pip3
@@ -74,7 +74,7 @@ Some of the currently planned **dashboard views** are :
 - Use Windows Terminal for the best experience
 
 
-# This is a **work-in-progress** project 😊
+## This is a **work-in-progress** project 😊
 
 The project currently is divided in 2 milestones : **Phase 1** and **Phase 2**
 - *Phase 1* is the milestone where the plan is construct robust implementations for the currently planned basic features.
@@ -83,7 +83,7 @@ The project currently is divided in 2 milestones : **Phase 1** and **Phase 2**
 There are a few todo items left for the Phase 1 - you can view it in the [Projects](https://github.com/users/Akash-Sharma-1/projects/1/views/1) section.
 All the issues are tagged with Phase 1 and Phase 2 depending upon the severity and nature.
 
-# Contributing ♥
+## Contributing ♥
 
 Currently, there are very few limited applications in the market, that could provide a single glance view of all the essential components of a work management system for a developer. 
 
@@ -92,6 +92,6 @@ The definition of a work management system itself varies quite differently acros
 
 Achieving this humoungous task, is only a possiblity with your contributions to this project through bug reporting, proposing enhacements, documenting, code contributing and much more.
 
-# License 
+## License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
