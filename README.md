@@ -4,18 +4,22 @@
 ![DashTerm Icon](images/Dashterm.png)
 
 ---
-- [Da⚡hTerm](#dahterm)
-    - [What's the app actually doing ? 🤔](#whats-the-app-actually-doing--)
-    - [Why use a TUI for this? 🤔](#why-use-a-tui-for-this-)
-    - [Want to contribute ?](#want-to-contribute-)
-- [Features 📑](#features-)
-- [How to use this ⚙?](#how-to-use-this-)
-    - [Requirements](#requirements)
-    - [Cloning the repo](#cloning-the-repo)
-    - [Installing Dependencies](#installing-dependencies)
-    - [Firing up the terminal](#firing-up-the-terminal)
-- [This is a **work-in-progress** project 😊](#this-is-a-work-in-progress-project-)
-- [Contributing ♥](#contributing-)
+- [Da⚡hTerm](#da-hterm)
+    + [What's the app actually doing ? 🤔](#what-s-the-app-actually-doing-----)
+    + [Why use a TUI for this? 🤔](#why-use-a-tui-for-this----)
+    + [Want to contribute ?](#want-to-contribute--)
+- [Features 📑](#features---)
+- [How to use this ⚙?](#how-to-use-this---)
+    + [Requirements](#requirements)
+    + [Setting up Google Cloud Client](#setting-up-google-cloud-client)
+      - [Login Information](#login-information)
+      - [You currently have to use your own Google API token.](#you-currently-have-to-use-your-own-google-api-token)
+      - [HTTP Proxy Support](#http-proxy-support)
+    + [Cloning the repo](#cloning-the-repo)
+    + [Installing Dependencies](#installing-dependencies)
+    + [Firing up the terminal](#firing-up-the-terminal)
+- [This is a **work-in-progress** project 😊](#this-is-a---work-in-progress---project---)
+- [Contributing ♥](#contributing--)
 - [License](#license)
 ---
 
@@ -58,6 +62,50 @@ Some of the currently planned **dashboard views** are :
 #### Requirements
 - python3
 - pip or pip3
+
+#### Setting up Google Cloud Client
+- ##### Login Information
+  OAuth2 is used for authenticating with your Google account. The resulting token
+  is placed in the `root directory`. When you first start any google API command inside TUI dashboard, the
+  authentication process will proceed. Simply follow the instructions.
+
+
+- ##### You currently have to use your own Google API token.
+  In order to facilitate the token process : 
+    1. [Create a New Project](https://console.developers.google.com/projectcreate) within the Google developer console
+      1. Activate the "Create" button.
+    2. [Enable the Google Calendar API](https://console.developers.google.com/apis/api/calendar-json.googleapis.com/)
+      1. Activate the "Enable" button.
+    3. [Create OAuth2 consent screen](https://console.developers.google.com/apis/credentials/consent/edit;newAppInternalUser=false) for an "UI /Desktop Application".
+      1. Fill out required App information section
+          1. Specify App name. Example: "gcalcli"
+          2. Specify User support email. Example: your@gmail.com
+      2. Fill out required Developer contact information
+          1. Specify Email addresses. Example: your@gmail.com
+      3. Activate the "Save and continue" button.
+      4. Scopes: activate the "Save and continue" button.
+      5. Test users
+          1. Add your@gmail.com
+          2. Activate the "Save and continue" button.
+    4. [Create OAuth Client ID](https://console.developers.google.com/apis/credentials/oauthclient)
+      1. Specify Application type: Desktop app.
+      2. Activate the "Create" button.
+    5. Grab your newly created Client ID (in the form "xxxxxxxxxxxxxxx.apps.googleusercontent.com") and Client Secret from the Credentials page.
+    6. Download the Credential Json file and name it is as `credentials.json` - it should look like [credentials-sample.json](credentials-sample.json)
+
+
+- ##### HTTP Proxy Support
+  DashTerm will automatically work with an HTTP Proxy simply by setting up some
+  environment variables used by the gdata Python module:
+
+  ```
+  http_proxy
+  https_proxy
+  proxy-username or proxy_username
+  proxy-password or proxy_password
+  ```
+
+  Note that these environment variables must be lowercase.
 
 #### Cloning the repo
 ```
