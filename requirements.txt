@@ -1,0 +1,6 @@
+google_api_python_client==2.62.0
+google_auth_oauthlib==0.5.2
+protobuf==4.21.6
+rich==12.5.1
+textual==0.1.18
+textual_inputs==0.2.6
