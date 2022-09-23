@@ -296,4 +296,4 @@ class WorkStation(App):
 
 
 if __name__ == "__main__":
-    WorkStation.run(title="Dash⚡Term", log="DashTerm.log")
+    WorkStation.run(title="Dash⚡Term", log="DashTermLog.log")
