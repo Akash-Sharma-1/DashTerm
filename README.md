@@ -1,23 +1,20 @@
 # Da⚡hTerm
->A terminal based application (TUI) for enhancing your productive workstation ...
+>A terminal based application (TUI) for enhancing your productive workstation 👨‍💻...
 
 ![DashTerm Icon](images/Dashterm.png)
 
 DashTerm is an easy to use , open-source TUI dashboard which enables you to view all the essential data you need at your workplace in a single glance.
 
-**What's the app actually doing ? 🤔**
-
+#### What's the app actually doing ? 🤔
 This app helps you in marking your events throughout the day, jotting down tasks, tracking down habits, logging journals and time-boxing work with pomo sessions - all enhancing your overall productivity with lightning speed ⚡
 And all this information is constantly synced with your cloud services ! 
 
-**Why use a TUI for this? 🤔**
-
+#### Why use a TUI for this? 🤔
 TUI is one of the most frictionless ways to interact with data without getting involved in UI/UX traps.
 Over time, it becomes more efficient for inputting or viewing high frequency datapoints.
 
 
-**Want to contribute ?**
-
+#### Want to contribute ?
 Please refer to the [Contributing Section](#contributing-) 
 Thanks in advance <3
 
@@ -38,6 +35,9 @@ Some of the currently planned **dashboard views** are :
 - ⏲ Pomodoro
   - View and start-pause-stop pomodoro sessions 
 
+![Demo1](/images/Demo1.jpg)
+![Demo2](/images/Demo2.jpg)
+
 
 ## How to use this ⚙?
 #### Requirements
@@ -48,14 +48,12 @@ Some of the currently planned **dashboard views** are :
 ```
 git clone https://github.com/Akash-Sharma-1/DashTerm.git
 ```
-
 #### Installing Dependencies
 ```
 cd DashTerm
 
 pip install -r requirements.txt
 ```
-
 #### Firing up the terminal
 ```
 python tui.py
@@ -69,7 +67,7 @@ The project currently is divided in 2 milestones : **Phase 1** and **Phase 2**
 - Phase 1 is the milestone where the plan is construct robust implementations for the currently planned basic features.
 - Phase 2 is the milestone where the plan is extend the tool to integrate more plugins and make it more user friendly
 
-There are a few todo items left for the Phase 1 - you can view it in the Projects section.
+There are a few todo items left for the Phase 1 - you can view it in the [Projects](https://github.com/users/Akash-Sharma-1/projects/1/views/1) section.
 All issues are tagged with Phase 1 and Phase 2 depending upon the severity and nature.
 
 ## Contributing ♥
