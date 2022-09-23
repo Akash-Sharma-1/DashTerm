@@ -36,12 +36,14 @@ Over time, it becomes more efficient for inputting or viewing high frequency dat
 
 #### Want to contribute ?
 Please refer to the [Contributing Section](#contributing-)
+
 Thanks in advance <3
 
 
 ## Features 📑
 
 Not an exaustive list - many more dashboard views are yet to come !
+
 Some of the currently planned **dashboard views** are : 
 - 📆 Google calendar
   - View , edit and modify your daily events
