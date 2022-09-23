@@ -8,8 +8,8 @@
     + [What's the app actually doing ? 🤔](#what-s-the-app-actually-doing-----)
     + [Why use a TUI for this? 🤔](#why-use-a-tui-for-this----)
     + [Want to contribute ?](#want-to-contribute--)
-- [Features 📑](#features---)
-- [How to use this ⚙?](#how-to-use-this---)
+- [📑 Features](#---features)
+- [🕹 How to use this ?](#---how-to-use-this--)
     + [Requirements](#requirements)
     + [Setting up Google Cloud Client](#setting-up-google-cloud-client)
       - [Login Information](#login-information)
@@ -18,9 +18,9 @@
     + [Cloning the repo](#cloning-the-repo)
     + [Installing Dependencies](#installing-dependencies)
     + [Firing up the terminal](#firing-up-the-terminal)
-- [This is a **work-in-progress** project 😊](#this-is-a---work-in-progress---project---)
-- [Contributing ♥](#contributing--)
-- [License](#license)
+- [🛠 This is a **work-in-progress** project](#---this-is-a---work-in-progress---project)
+- [❤ Contributing](#--contributing)
+- [⚖ License](#--license)
 ---
 
 DashTerm is an easy to use , open-source TUI dashboard which enables you to view all the essential data you need at your workplace in a single glance.
