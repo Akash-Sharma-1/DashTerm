@@ -35,7 +35,7 @@ Over time, it becomes more efficient for inputting or viewing high frequency dat
 
 
 #### Want to contribute ?
-Please refer to the [Contributing Section](#contributing-) 
+Please refer to the [Contributing Section](#contributing-)
 Thanks in advance <3
 
 
@@ -139,7 +139,7 @@ Currently, there are very few limited applications in the market, that could pro
 The definition of a work management system itself varies quite differently across devs, orgs and groups.
 >*DashTerm could become a personalised plug-play TUI tool for everyone to manage their work effectively and enhance their productivity with plugins they feel empowered with .* 
 
-Achieving this humoungous task, is only a possiblity with your contributions to this project through bug reporting, proposing enhacements, documenting, code contributing and much more.
+Achieving this humongous task, is only a possiblity with your contributions to this project through bug reporting, proposing enhacements, documenting, code contributing and much more.
 
 ## License 
 
