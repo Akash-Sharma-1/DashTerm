@@ -1,7 +1,15 @@
-## Da⚡hTerm
->A terminal based application (TUI) for enhancing your productive workstation 👨‍💻...
+<p align="center">
+   <img src="images/Dashterm.png" alt="" width="500"/>
+   <p align="center">
+      <b>A terminal based application (TUI) for enhancing your productive workstation</b> 👨‍💻...
+      </br></br>
+      <br/>
+      <a href="https://github.com/Akash-Sharma-1/DashTerm/issues">Report a Bug/Issue</a> || <a href="https://github.com/Akash-Sharma-1/DashTerm/discussions">Request a Feature</a> || <a href="https://github.com/users/Akash-Sharma-1/projects/1">View Project Status</a>
+        <p align="center"><img src="https://img.shields.io/badge/Tests-Passing-brightgreen" /> <img src="https://img.shields.io/badge/PR-Welcomed !-orange" />  <img src="https://img.shields.io/badge/License-MIT-blue.svg" /> <img src="https://img.shields.io/badge/Maintained%3F-Yes !-violet.svg" />
 
-![DashTerm Icon](images/Dashterm.png)
+   </p>
+</p>
+
 
 ---
 - [Da⚡hTerm](#da-hterm)
@@ -19,6 +27,7 @@
 - [❤ Contributing](#-contributing)
 - [⚖ License](#-license)
 ---
+## Da⚡hTerm
 
 DashTerm is an easy to use , open-source TUI dashboard which enables you to view all the essential data you need at your workplace in a single glance.
 
@@ -139,6 +148,8 @@ The definition of a work management system itself varies quite differently acros
 >*DashTerm could become a personalised plug-play TUI tool for everyone to manage their work effectively and enhance their productivity with plugins they feel empowered with .* 
 
 Achieving this humongous task, is only a possiblity with your contributions to this project through bug reporting, proposing enhacements, documenting, code contributing and much more.
+
+Kindly also refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details on our code of conduct and the process for submitting pull requests.
 
 ## ⚖ License 
 
