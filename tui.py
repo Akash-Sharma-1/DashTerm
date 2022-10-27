@@ -10,7 +10,7 @@ from rich.text import Text
 from rich.console import Console, ConsoleOptions, RenderableType
 from rich.padding import PaddingDimensions
 from textual.reactive import Reactive
-from googleApis import *
+from apis.googleApis import *
 import re
 import warnings
 warnings.filterwarnings(action="ignore", message="unclosed", category=ResourceWarning)
