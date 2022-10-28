@@ -9,6 +9,9 @@ def get_motivational_quote():
     response = requests.get('https://api.goprogram.ai/inspiration')
     return response.json()['quote']
 
+def get_programmatical_quote():
+    response = requests.get('https://nodejs-quoteapp.herokuapp.com/quote')
+    return response.json()['quote']
 
 # if __name__ == '__main__' : 
 #     print(get_motivational_quote())
