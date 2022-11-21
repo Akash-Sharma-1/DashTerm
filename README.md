@@ -64,6 +64,11 @@ Some of the currently planned **dashboard views** are :
 
 ![Demo1](/images/Demo1.jpg)
 ![Demo2](/images/Demo2.jpg)
+![Demo3](/images/sample_config.png)
+![Demo2](/images/kubernetes_config.png)
+![Demo2](/images/demo.gif)
+
+
 
 
 ## 🕹 How to use this ?
