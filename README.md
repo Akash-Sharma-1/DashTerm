@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="images/Dashterm.png" alt="" width="500"/>
+   <img src="" alt="" width="500"/>
    <p align="center">
       <b>A terminal based application (TUI) for enhancing your productive workstation</b> 👨‍💻...
       </br></br>
@@ -62,11 +62,7 @@ Some of the currently planned **dashboard views** are :
 - ⏲ Pomodoro
   - View and start-pause-stop pomodoro sessions 
 
-![Demo1](/images/Demo1.jpg)
-![Demo2](/images/Demo2.jpg)
-![Demo3](/images/sample_config.png)
-![Demo2](/images/kubernetes_config.png)
-![Demo2](/images/demo.gif)
+
 
 
 
