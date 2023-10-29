@@ -1,16 +1,14 @@
-
 <p align="center">
    <p align="center">
-    <p align="center"
-      <img src="https://raw.githubusercontent.com/Akash-Sharma-1/DashTerm/main/images/Dashterm.png" width="200">
-      </p>
       <b>A terminal based application (TUI) for enhancing your productive workstation</b> 👨‍💻...
-      </br></br>
+      <p align="center">
+      <img src="https://raw.githubusercontent.com/Akash-Sharma-1/DashTerm/main/images/Dashterm.png" width="400">
       <br/>
       <a href="https://github.com/Akash-Sharma-1/DashTerm/issues">Report a Bug/Issue</a> | <a href="https://github.com/Akash-Sharma-1/DashTerm/discussions">Request a Feature</a> | <a href="https://github.com/users/Akash-Sharma-1/projects/1">View Project Status</a>
         <p align="center"><img src="https://img.shields.io/badge/Tests-Passing-brightgreen" /> <img src="https://img.shields.io/badge/PR-Welcomed !-orange" />  <img src="https://img.shields.io/badge/License-MIT-blue.svg" /> <img src="https://img.shields.io/badge/Maintained%3F-Yes !-violet.svg" />
 
    </p>
+</p>
 </p>
 
 
