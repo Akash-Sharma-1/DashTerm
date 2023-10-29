@@ -1,5 +1,6 @@
+![Dashterm](./images/Dashterm.png)
+
 <p align="center">
-   <img src="" alt="" width="500"/>
    <p align="center">
       <b>A terminal based application (TUI) for enhancing your productive workstation</b> 👨‍💻...
       </br></br>
@@ -30,6 +31,8 @@
 ## Da⚡hTerm
 
 DashTerm is an easy to use , open-source TUI dashboard which enables you to view all the essential data you need at your workplace in a single glance.
+
+![Screenshot](./images/demo.gif)
 
 #### What's the app actually doing ? 🤔
 This app helps you in marking your events throughout the day, jotting down tasks, tracking down habits, logging journals and time-boxing work with pomo sessions - all enhancing your overall productivity with lightning speed ⚡
@@ -63,7 +66,10 @@ Some of the currently planned **dashboard views** are :
   - View and start-pause-stop pomodoro sessions 
 
 
-
+![Screenshot](./images/Demo1.jpg)
+![Screenshot](./images/Demo2.jpg)
+![Screenshot](./images/kubernetes_config.png)
+![Screenshot](./images/sample_config.png)
 
 
 
