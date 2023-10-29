@@ -1,7 +1,7 @@
-![Dashterm](./images/Dashterm.png)
 
 <p align="center">
    <p align="center">
+      <img src="https://raw.githubusercontent.com/Akash-Sharma-1/DashTerm/main/images/Dashterm.png" alt="LOGO">
       <b>A terminal based application (TUI) for enhancing your productive workstation</b> 👨‍💻...
       </br></br>
       <br/>
@@ -70,7 +70,6 @@ Some of the currently planned **dashboard views** are :
 ![Screenshot](./images/Demo2.jpg)
 ![Screenshot](./images/kubernetes_config.png)
 ![Screenshot](./images/sample_config.png)
-
 
 
 ## 🕹 How to use this ?
