@@ -1,7 +1,9 @@
 
 <p align="center">
    <p align="center">
-      <img src="https://raw.githubusercontent.com/Akash-Sharma-1/DashTerm/main/images/Dashterm.png" alt="LOGO">
+    <p align="center"
+      <img src="https://raw.githubusercontent.com/Akash-Sharma-1/DashTerm/main/images/Dashterm.png" width="200">
+      </p>
       <b>A terminal based application (TUI) for enhancing your productive workstation</b> 👨‍💻...
       </br></br>
       <br/>
